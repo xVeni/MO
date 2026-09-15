@@ -1,3 +1,5 @@
+# __author__ == 'Черепанов А.В.'
+
 from module_math import calculate_bonus, calculate_full_salary
 
 

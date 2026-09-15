@@ -5,9 +5,11 @@
     Если стаж от 5 до 10 лет, надбавка 5%
 """
 
-# import module_math
+
 from module_math import calculate_bonus, calculate_full_salary
 from module_assert import test_calculate_bonus, test_calculate_full_salary
+
+
 def main():
   test_calculate_bonus()
   test_calculate_full_salary()
